@@ -82,5 +82,5 @@ If you use it in your research, please cite the following paper:
 
 ## **Contact**
 
-For questions or contributions, please contact:
+For questions or contributions, please contact: lihuawang9999@gmail.com
 
