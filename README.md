@@ -51,13 +51,13 @@ python code/main.py --cp=[path to corpus] --dp=[path to dataset] --tp=[path to t
 ##### **Running the Model on default CERT-NVD Dataset**
 
 ```
-python code/main.py --dp=../data/CSV/CERT-NVD/ --batch-size 128 --lr=0.02 --n-epoch 20
+python code/main.py --dp=../data/CERT-NVD/ --batch-size 128 --lr=0.02 --n-epoch 20
 ```
 
 ##### **Running the Model on default SF-NVD Dataset**
 
 ```
-python code/main.py --dp=data/CSV/SF-NVD/ --batch-size 128 --lr=0.025 --n-epoch 30
+python code/main.py --dp=data/SF-NVD/ --batch-size 128 --lr=0.025 --n-epoch 30
 ```
 
 
