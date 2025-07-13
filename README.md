@@ -77,7 +77,7 @@ The datasets include manually annotated vulnerabilities to improve alignment acc
 ## **Citation**
 
 If you use it in your research, please cite the following paper:
-
+Wang, L., Jiang, J., S. Kanhere, S., Sun, J., Jha, S., Xing, Z. (2025). DARA: Enhancing Vulnerability Alignment via Adaptive Reconstruction and Dual-Level Attention. In: Susilo, W., Pieprzyk, J. (eds) Information Security and Privacy. ACISP 2025. Lecture Notes in Computer Science, vol 15660. Springer, Singapore. https://doi.org/10.1007/978-981-96-9101-2_14
 
 
 ## **Contact**
